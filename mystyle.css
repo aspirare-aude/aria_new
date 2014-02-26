@@ -1,0 +1,28 @@
+h1 {
+  font-weight: bold;
+  color: green;
+  font-size: 32px;
+  font-family: serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+body {
+	background-color: blue;
+}
+
+.paraCenter {
+	text-align: center;
+}
+
+#email {
+	background-color: orange;
+	font-family: helvetica;
+}
+
+img {
+	border:2px solid;
+    border-radius:25px;
+}
